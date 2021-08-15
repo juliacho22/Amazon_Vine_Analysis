@@ -3,15 +3,15 @@
 This project analyzes the Amazon reviews written by members of the paid Amazon Vine program using a subset of data that pertained to the video game subcategory. An ETL analysis was completed using AWS, Google Colaboratory, PostgreSQL, and PySpark. 
 
 ## Results 
-- How many Vine reviews and non-Vine reviews were there?
+- How many Vine reviews and non-Vine reviews were there? \
 There are 94 vine reviews and 40,471 non-vine reviews for a total of 40,565 reviews. \
 *add image here*
 
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?\
 There were 48 5-star vine reviews and 15663 5-star non-vine reviews for a total of 15,711 5-star reviews. \
 *add image here*
 
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? 
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? \
 51.06% of paid reviews are 5-stars and 38.7% of unpaid reveiws are 5-stars. \
 *add image here*
 
